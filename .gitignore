@@ -2,14 +2,10 @@
 src/auth.json
 
 # Binaries
-src/img/*
-src/imgMisc/*
-src/imgQuote/*
-src/imgLeave/*
-src/sound/*
-src/soundLeave/*
-src/soundMisc/*
-src/soundQuote/*
+*.jpg
+*.opus
+!put_images_here.txt
+!put_soundfiles_here.txt
 
 # Logs
 logs
