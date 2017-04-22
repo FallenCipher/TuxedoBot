@@ -1,0 +1,35 @@
+{
+  "name": "tuxedobot",
+  "version": "0.1.0",
+  "description": "A Sailor Moon related Discord bot based on Discord.js",
+  "main": "index.js",
+  "author": "FallenCipher",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "node-opus": "^0.2.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FallenCipher/tuxedobot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "client",
+    "node",
+    "discordapp",
+    "sailor moon",
+    "discord.js",
+    "tuxedobot",
+    "tuxedo mask",
+    "anime"
+  ],
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/FallenCipher/tuxedobot/issues"
+  },
+  "homepage": "https://github.com/FallenCipher/tuxedobot#readme"
+}
