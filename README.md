@@ -2,7 +2,7 @@
 A Sailor Moon related Discord bot based on [Discord.js](https://github.com/hydrabolt/discord.js)
 
 # What the TuxedoBot can do
-TuxedoBot can currently by used to deliver random quotes of Tuxed Mask, the main hero from the Anime Sailor Moon.
+TuxedoBot can currently by used to deliver random quotes of Tuxedo Mask, the main hero from the Anime Sailor Moon.
 By typing in the quote command, TuxedoBot will throw a rose by sending an image to the current text channel and playing a soundfile in the current voice channel if available.
 After a short pause, TuxedoBot will deliver a random quote by sending an image and playing his speech in the current voice channel if available.
 

@@ -7,6 +7,9 @@ src/auth.json
 !put_images_here.txt
 !put_soundfiles_here.txt
 
+# Visual Studio
+*.vscode
+
 # Logs
 logs
 *.log
